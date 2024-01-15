@@ -10,3 +10,4 @@
 - **Code Tools** : <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 - **Front-end** : <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 - **접속 주소** : http://class7-team4.itwillbs.com:8080/main/login
+- **QR코드**<br>![CafeIn](https://github.com/horyong-code/CafeIn/assets/149052781/194d41cc-7f99-47c9-a9ce-c88098afe5ce)
