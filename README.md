@@ -11,5 +11,5 @@
 - **Front-end** : <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 - **Co-work Tools** : <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GoogleDocs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/>
 - **포트폴리오** : https://www.miricanvas.com/v/12ss08c
-- **접속 주소** : http://class7-team4.itwillbs.com:8080/main/login
+- **접속 주소** : http://class7-team4.itwillbs.com:8080/
 - **QR코드 접속**<br>![CafeIn](https://github.com/horyong-code/CafeIn/assets/149052781/6b5a7761-cd65-4532-a296-dac7c644f704)
