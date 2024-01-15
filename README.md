@@ -1,5 +1,5 @@
 # 2st Team Project - CafeIn
-**2차 팀 프로젝트**
+![cafein](https://github.com/horyong-code/CafeIn/assets/149052781/13139d93-3cb3-4df8-af6c-c3a67ac07e32)
 
 - **기간** : **2023.12.04 ~ 2024.01.15**
 - **인원** : **7인**
