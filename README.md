@@ -12,4 +12,4 @@
 - **Co-work Tools** : <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GoogleDocs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/>
 - **포트폴리오** : https://www.miricanvas.com/v/12ss08c
 - **접속 주소** : http://class7-team4.itwillbs.com:8080
-- **QR코드 접속**<br>
+- **QR코드 접속**<br>![CafeIn](https://github.com/horyong-code/CafeIn/assets/149052781/621f2b28-2493-4deb-b503-b8b45036352c)
